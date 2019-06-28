@@ -1,0 +1,18 @@
+package com.vilt.treinamento.java;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+@Controller
+@RequestMapping(path="/store")
+public class FuncionarioController {
+	@RequestMapping(method=RequestMethod.POST)
+	public String salvarFuncionario(Model model, Funcionario funcionario) {
+		System.out.println("nome: "+ funcionario.getNome());
+		System.out.println("salario: "+ funcionario.getSalario());
+		model.addAttribute(funcionario);
+		return "display";
+	}
+}
