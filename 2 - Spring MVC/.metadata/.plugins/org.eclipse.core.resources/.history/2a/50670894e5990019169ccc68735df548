@@ -1,0 +1,8 @@
+<html>
+<body>
+
+<form action="../maven-spring-funcionario/jsps/emp.jsp" method="post">
+		<input type="submit" value="cadastrar" />
+	</form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+package com.vilt.treinamento.java;
+
+public class Funcionario {
+
+	private String Nome;public String getNome() {
+		return Nome;
+	}
+	private int Salario;
+	public int getSalario() {
+		return Salario;
+	}
+	
+}

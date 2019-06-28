@@ -1,0 +1,8 @@
+package com.vilt.treinamento.java;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class FuncionarioController {
+	
+}

@@ -1,0 +1,7 @@
+package com.vilt.treinamento.config;
+
+import org.springframework.web.WebApplicationInitializer;
+
+public class SpringWebInitializer implements WebApplicationInitializer {
+
+}

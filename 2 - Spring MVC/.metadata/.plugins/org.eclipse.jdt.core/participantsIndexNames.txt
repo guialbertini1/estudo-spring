@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Guilherme Albertini\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1850748458.index
+\maven-spring-funcionario\src\main\resources
+C:\Users\Guilherme Albertini\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\364483544.index
+\maven-spring-helloworld\src\main\resources
+C:\Users\Guilherme Albertini\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2206255864.index
+\maven-spring-funcionario\src\main\resources
+C:\Users\Guilherme Albertini\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3530734863.index
+\maven-web-project-helloworld\src\main\resources

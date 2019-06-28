@@ -1,0 +1,5 @@
+package com.vilt.treinamento.config;
+
+public class SpringWebInitializer {
+
+}

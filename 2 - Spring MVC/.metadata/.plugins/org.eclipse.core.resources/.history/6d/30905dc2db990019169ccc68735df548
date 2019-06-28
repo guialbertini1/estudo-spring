@@ -1,0 +1,5 @@
+package com.vilt.treinamento.java;
+
+public class SpringWebConfiguration {
+
+}

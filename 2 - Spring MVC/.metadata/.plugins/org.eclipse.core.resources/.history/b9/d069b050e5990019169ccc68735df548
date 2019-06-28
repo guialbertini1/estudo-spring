@@ -1,0 +1,7 @@
+<html>
+<body>
+<form action="../emp.jsp" method="post">
+		<input type="submit" value="cadastrar" />
+	</form>
+</body>
+</html>
