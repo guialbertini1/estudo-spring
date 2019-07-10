@@ -1,0 +1,2 @@
+../ retorna para o trecho root do path
+./ continua o path

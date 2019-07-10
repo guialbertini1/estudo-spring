@@ -1,0 +1,28 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>ContentServlet</servlet-name>
+  	<servlet-class>com.vilt.java.ContentServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ViltianController</servlet-name>
+  	<servlet-class>com.vilt.teste.banco.ViltianController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ViltianController</servlet-name>
+  	<url-pattern>/ViltianController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ContentServlet</servlet-name>
+  	<url-pattern>/ContentServlet</url-pattern>
+  </servlet-mapping>
+  
+  <welcome-file-list>
+  	<welcome-file>home</welcome-file>
+  	<welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
